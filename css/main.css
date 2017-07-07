@@ -26,6 +26,9 @@ h2, h3 {
 .text-orange {
   color: #FF671F; }
 
+#background-home {
+  background-image: url(../assets/img/fotos-stock/gente-feliz/shutterstock_289485428.jpg); }
+
 .uk-navbar-nav > li > a, .uk-subnav > * > :first-child {
   color: white;
   font-family: "Muli", sans-serif; }
